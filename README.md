@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @elansarii
-- 👀 I’m interested in technology and motorsport
 - 🌱 I’m currently learning computer science in Qatar University
 - 💞️ I’m looking to collaborate on projects that could improve my skillset
 - 📫 How to reach me on discord: ansarii_
